@@ -2057,7 +2057,7 @@ body {
 }
 .cid-qPXATqW347 .mbr-iconfont-social {
   font-size: 32px;
-  color: #ff3366;
+  color: #232323;
 }
 .cid-qPXATqW347 .social-list a:focus {
   text-decoration: none;
@@ -5420,6 +5420,9 @@ body {
   }
 }
 .cid-qPYhgKNl5s P {
+  text-align: left;
+}
+.cid-qPYhgKNl5s .copyright > p {
   text-align: left;
 }
 .cid-qLr8LYPF9J .navbar {
