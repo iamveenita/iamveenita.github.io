@@ -1799,6 +1799,9 @@ body {
 .cid-qPVOwzaRhX H1 {
   color: #232323;
 }
+.cid-qPVOwzaRhX I {
+  color: #232323;
+}
 .cid-qPVON8Cs2R {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1916,8 +1919,8 @@ body {
 .cid-qPWJODUHJX {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  background-color: #efefef;
+  background: linear-gradient(#efefef, #cccccc);
 }
 .cid-qPWJODUHJX .carousel-control {
   background: #000;
@@ -3166,8 +3169,8 @@ body {
   }
 }
 .cid-qPXGHfuplT {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 .cid-qPXGHfuplT .row-links {
