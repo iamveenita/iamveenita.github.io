@@ -24415,6 +24415,9 @@ body {
 .cid-r8Up5KIC9c .mbr-section-subtitle DIV {
   text-align: left;
 }
+.cid-r8Up5KIC9c B {
+  color: #767676;
+}
 .cid-r8UpNE7RZ8 {
   background: #ffffff;
   padding-top: 0px;
@@ -24498,6 +24501,18 @@ body {
   .cid-r8Ur24xYoz .image-block {
     width: 100% !important;
   }
+}
+.cid-r8VuznsAvL {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-r8VuznsAvL .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-r8VuznsAvL .social-list a:focus {
+  text-decoration: none;
 }
 .cid-r8UrmIferK {
   padding-top: 30px;
